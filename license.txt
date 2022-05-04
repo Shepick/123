@@ -1,0 +1,11 @@
+Model Information:
+* title:	3Begun
+* source:	https://sketchfab.com/3d-models/3begun-e20a173113594924b03c31266c93f98a
+* author:	grepyday (https://sketchfab.com/grepyday)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "3Begun" (https://sketchfab.com/3d-models/3begun-e20a173113594924b03c31266c93f98a) by grepyday (https://sketchfab.com/grepyday) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
